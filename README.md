@@ -11,5 +11,5 @@
 
 |   | No. Alumno | Apellidos | Nombre | Usuario Github | % participación |
 | --- | --- | --- | --- | --- | --- |
-|  1 |         |            |   |         |  |
-|  2 |         |            |   |         |  |
+|  1 |201910329|Velazco Loaiza | Jatzumi Abigail |ec1-Jatzumi|  |
+|  2 |         |Recharte Alva|Rodrigo|ec1-rodrigorecharte|  |
